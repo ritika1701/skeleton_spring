@@ -1,4 +1,4 @@
-package com.test.codes.entity;
+package com.spring.codes.entity;
 
 
 import lombok.*;

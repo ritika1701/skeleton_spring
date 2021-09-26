@@ -1,10 +1,10 @@
-package com.test.codes.service;
+package com.spring.codes.service;
 
-import com.test.codes.entity.ExchangeProduct;
-import com.test.codes.entity.ExchangeResponse;
-import com.test.codes.entity.ProductList;
-import com.test.codes.repository.ExchangeProductRepository;
-import com.test.codes.repository.ProductListRepository;
+import com.spring.codes.repository.ProductListRepository;
+import com.spring.codes.entity.ExchangeProduct;
+import com.spring.codes.entity.ExchangeResponse;
+import com.spring.codes.entity.ProductList;
+import com.spring.codes.repository.ExchangeProductRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,11 +1,11 @@
-package com.test.codes.controller;
+package com.spring.codes.controller;
 
-import com.test.codes.entity.ExchangeProduct;
-import com.test.codes.entity.ExchangeResponse;
-import com.test.codes.entity.ProductList;
-import com.test.codes.repository.ExchangeProductRepository;
-import com.test.codes.repository.ProductListRepository;
-import com.test.codes.service.EndPointService;
+import com.spring.codes.entity.ExchangeProduct;
+import com.spring.codes.entity.ExchangeResponse;
+import com.spring.codes.entity.ProductList;
+import com.spring.codes.repository.ProductListRepository;
+import com.spring.codes.service.EndPointService;
+import com.spring.codes.repository.ExchangeProductRepository;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

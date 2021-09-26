@@ -1,6 +1,6 @@
-package com.test.codes.repository;
+package com.spring.codes.repository;
 
-import com.test.codes.entity.ProductList;
+import com.spring.codes.entity.ProductList;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;

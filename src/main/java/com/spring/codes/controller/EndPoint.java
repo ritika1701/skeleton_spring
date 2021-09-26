@@ -1,9 +1,9 @@
-package com.test.codes.controller;
+package com.spring.codes.controller;
 
-import com.test.codes.entity.ExchangeProduct;
-import com.test.codes.entity.ExchangeResponse;
-import com.test.codes.entity.ProductList;
-import com.test.codes.service.EndPointService;
+import com.spring.codes.entity.ExchangeProduct;
+import com.spring.codes.entity.ExchangeResponse;
+import com.spring.codes.entity.ProductList;
+import com.spring.codes.service.EndPointService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
