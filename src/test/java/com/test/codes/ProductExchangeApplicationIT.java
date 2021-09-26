@@ -1,4 +1,4 @@
-package com.airtel.codes;
+package com.test.codes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

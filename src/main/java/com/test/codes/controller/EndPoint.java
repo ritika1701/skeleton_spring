@@ -1,9 +1,9 @@
-package com.airtel.codes.controller;
+package com.test.codes.controller;
 
-import com.airtel.codes.entity.ExchangeProduct;
-import com.airtel.codes.entity.ExchangeResponse;
-import com.airtel.codes.entity.ProductList;
-import com.airtel.codes.service.EndPointService;
+import com.test.codes.entity.ExchangeProduct;
+import com.test.codes.entity.ExchangeResponse;
+import com.test.codes.entity.ProductList;
+import com.test.codes.service.EndPointService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

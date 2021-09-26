@@ -1,6 +1,6 @@
-package com.airtel.codes.repository;
+package com.test.codes.repository;
 
-import com.airtel.codes.entity.ProductList;
+import com.test.codes.entity.ProductList;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;

@@ -1,4 +1,4 @@
-package com.airtel.codes.entity;
+package com.test.codes.entity;
 
 
 import lombok.*;

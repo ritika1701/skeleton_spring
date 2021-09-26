@@ -1,4 +1,4 @@
-package com.airtel.codes.entity;
+package com.test.codes.entity;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

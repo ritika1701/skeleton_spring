@@ -1,4 +1,4 @@
-package com.airtel.codes;
+package com.test.codes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

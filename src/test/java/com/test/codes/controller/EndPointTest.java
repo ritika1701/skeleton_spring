@@ -1,11 +1,11 @@
-package com.airtel.codes.controller;
+package com.test.codes.controller;
 
-import com.airtel.codes.entity.ExchangeProduct;
-import com.airtel.codes.entity.ExchangeResponse;
-import com.airtel.codes.entity.ProductList;
-import com.airtel.codes.repository.ExchangeProductRepository;
-import com.airtel.codes.repository.ProductListRepository;
-import com.airtel.codes.service.EndPointService;
+import com.test.codes.entity.ExchangeProduct;
+import com.test.codes.entity.ExchangeResponse;
+import com.test.codes.entity.ProductList;
+import com.test.codes.repository.ExchangeProductRepository;
+import com.test.codes.repository.ProductListRepository;
+import com.test.codes.service.EndPointService;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

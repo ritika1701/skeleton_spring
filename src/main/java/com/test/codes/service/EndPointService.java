@@ -1,10 +1,10 @@
-package com.airtel.codes.service;
+package com.test.codes.service;
 
-import com.airtel.codes.entity.ExchangeProduct;
-import com.airtel.codes.entity.ExchangeResponse;
-import com.airtel.codes.entity.ProductList;
-import com.airtel.codes.repository.ExchangeProductRepository;
-import com.airtel.codes.repository.ProductListRepository;
+import com.test.codes.entity.ExchangeProduct;
+import com.test.codes.entity.ExchangeResponse;
+import com.test.codes.entity.ProductList;
+import com.test.codes.repository.ExchangeProductRepository;
+import com.test.codes.repository.ProductListRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
